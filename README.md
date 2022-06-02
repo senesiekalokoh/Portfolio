@@ -1,16 +1,16 @@
-# Portfolio
-This is my small project using HTML, CSS, Bootstrap. I will be using this to showcase my projects.
+# Portfolio Project
 
-[Live Heroku Deployment](https://portfolio-senesiekalokoh.herokuapp.com/)
+A portfolio project through TECH I.S. utilizing HTML, CSS, and Bootstrap. I will use this site for further projects for friends and recruiters to look at.
 
-![Screenshot 2022-03-08 at 12 35 18 AM](https://user-images.githubusercontent.com/99277902/157101155-7b04db6f-0960-4b54-ac22-85f44bb9d978.png)
+[Live Heroku Deployment] (https://portfolio-kaira.herokuapp.com/)
 
-# Technology used
-*HTML 
-*CSS
+![Image](https://user-images.githubusercontent.com/96155733/148631422-74383827-0492-42c0-8c27-389a6158fb55.PNG)
 
-# Installation
-No need to install any software, just open up index.html and run it. 
+## Technologies Used
 
-# How to Use?
-Use this template to build your own portfolio.
+ - HTML
+ - CSS
+
+## Installation
+
+No need to install any software. Just open up portfolio.html
